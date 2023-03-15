@@ -6,7 +6,7 @@
 
 SkyhookDM is an open source project within the [Center for Research on Open Source Software][web-cross] at the [University of California Santa Cruz][web-ucsc].
 
-# 🎤📝 Presentations and Publications
+# 🎤 Presentations and 📝 Publications
 Some recent presentations and publications can be found on the [project page hosted by iris-hep][proj-skyhookdm].
 
 # 🧑‍🤝‍🧑 People
