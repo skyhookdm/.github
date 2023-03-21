@@ -4,6 +4,13 @@
 
 <img src="skyhooklogo.webp">
 
+<center><large>Efficient and composable data management<br>
+in storage and network layers</large></center>
+
+# 🚀 Mission
+
+
+
 SkyhookDM is an open source project within the [Center for Research on Open Source Software][web-cross] at the [University of California Santa Cruz][web-ucsc].
 
 # 🎤 Presentations and 📝 Publications
