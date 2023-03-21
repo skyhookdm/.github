@@ -2,7 +2,7 @@
 **skyhookdm/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on the organization's GitHub profile.
 -->
 
-# SkyhookDM
+<img src="skyhooklogo.webp">
 
 SkyhookDM is an open source project within the [Center for Research on Open Source Software][web-cross] at the [University of California Santa Cruz][web-ucsc].
 
