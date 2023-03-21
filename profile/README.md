@@ -4,8 +4,7 @@
 
 <img src="skyhooklogo.webp">
 
-<center><large>Efficient and composable data management<br>
-in storage and network layers</large></center>
+### Efficient and composable data management in storage and network layers
 
 # 🚀 Mission
 
