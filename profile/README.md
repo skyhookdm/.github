@@ -2,7 +2,7 @@
 **skyhookdm/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on the organization's GitHub profile.
 -->
 
-<img src="skyhooklogo.webp">
+<img src="skyhooklogo.png">
 
 ### Efficient and composable data management in storage and network layers
 
