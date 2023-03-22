@@ -8,7 +8,7 @@
 
 SkyhookDM is an open source project to enable automatic mapping of data processing of structured data to heterogeneous architectures by providing a framework for efficient and composable data processing in storage and networking layers. SkyhookDM leverages Apache Arrow and other open source projects that receive significant investment by the data management community in science and industry. The project strives to maximize contributions to existing open source projects while minimizing the size (and need for maintenance) of an independent codebase.
 
-# 🤔 Why Storage and networking layers?
+# 🤔 Why Storage and Networking Layers?
 
 A key challenge in data science is extracting efficient and timely insights from an ever increasing flood of data streams. Apache Arrow, an open source data processing framework, provides an efficient and timely approach by reducing in-memory serialization and copy overheads. It is widely used in the development of data management services of structured data due to its interoperability across multiple programming languages and runtimes and plays an essential role in the rapid evolution of the open source data science ecosystem. 
 
@@ -34,15 +34,17 @@ Built with Apache Arrow, leveraging its ecosystem
 Some recent presentations and publications can be found on the [project page hosted by iris-hep][proj-skyhookdm].
 
 # 🧑‍🤝‍🧑 People
-The Skyhook community is mostly organized around collaborations with some people being funded by multiple sources:
 
-- IRIS-HEP: Jayjeet Chakraborty, Oksana Shadura, Alex Held, Brian Bockelman, Carlos Maltzahn
-- Seagate: Aldrin Montana, Philip Kufeldt, Peter Alvaro
+The following people have been significantly involved in Skyhook-related activities, organized by collaborations:
+
+- [IRIS-HEP](https://iris-hep.org): Jayjeet Chakraborty, Jeff LeFevre, Oksana Shadura, Alex Held, Brian Bockelman, Carlos Maltzahn
+- Seagate: Aldrin Montana, Jeff LeFevre, Philip Kufeldt, Peter Alvaro
 - Sandia National Labs: Jianshen Liu, Matthew L. Curry, Craig Ulmer, Carlos Maltzahn
 - Argonne National Lab: Jayjeet Chakraborty, Matthieu Dorier, Phil Carns, Rob Ross, Carlos Maltzahn
 
 # 💰 Funding
-SkyhookDM is an open source project funded by the Institute for Research and Innovation in Software for High-Energy Physics (IRIS-HEP, NSF OAC-1836650), Sandia National Laboratories, NSF CNS-1764102, Seagate Technologies, and the [Center for Research on Open Source Software][web-cross] at the [University of California Santa Cruz][web-ucsc].
+
+SkyhookDM is an open source project funded by [NSF TI-2229773](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229773), [NSF OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650), DOE ASCR DE-NA0003525 (FWP 20-023266, subcontractor of Sandia National Labs), [NSF CNS-1764102](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1764102), Seagate Technologies, and the [Center for Research on Open Source Software][web-cross] at the [University of California Santa Cruz][web-ucsc].
 
 <!-- Resources -->
 [web-cross]:       https://cross.ucsc.edu/
